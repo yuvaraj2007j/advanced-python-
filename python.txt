@@ -1,0 +1,17 @@
+                                                   
+              Advanced python 
+
+python is popular language
+
+commands can be more readable
+commands can be used to prevent the execution when testing
+variable are
+
+creating variable
+python as no commands declare a variable a variable is moment first assign a value
+ eg: x=4
+     y=yuva
+     print(X)
+     print(Y)
+o/p
+  4

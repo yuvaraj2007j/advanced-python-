@@ -1,0 +1,28 @@
+
+                   Tuple
+tuple:
+it used to store multiple 
+a tuple one of core data type which is used to store to data
+tuple is collection of data which is can't be changed
+tuple is round bracket()
+
+creating a tuple:
+
+code:
+
+
+
+
+tuple items:
+   are order unchanged value duplicate values
+
+tuples order:
+        don't add, unchangeable,it allow duplicates,   
+tuple length:
+         to determine how many items use the length the functions
+tuple=(apple,banana)
+print(len(tuple))
+
+
+tuple items can be any of the data types
+ex: it can be a Boolean,int,string
