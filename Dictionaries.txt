@@ -1,0 +1,10 @@
+Dictionaries:
+	i)it is a collection of key value and points
+	ii)Mutable (can change)
+	student={name gives key, asash is value}
+	print(student)
+
+	-Accesing dictinary value
+          	=print(Student["name"])
+o/p= akash
+	-using get=print(student.get("name")
